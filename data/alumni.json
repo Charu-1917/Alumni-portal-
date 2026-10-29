@@ -1,0 +1,272 @@
+[
+ {
+  "name": "Dr. Ben John",
+  "role": "Vice President – Engineering",
+  "company": "Microsoft AI",
+  "location": "New York City",
+  "dept": "Ph.D",
+  "batch": 2016,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_b9218cc7e61c86f5fb3e532183f74806.png",
+  "bio": "Dr. Ben John is Vice President – Engineering at Microsoft AI, New York City. A proud Karunya alumnus (Ph.D, 2016) and a member of the university's Distinguished Alumni. Recently appointed Chief Technology Officer (CTO) at Digital Turbine, an accomplished leader in AI, Data and AdTech."
+ },
+ {
+  "name": "Dr. Justin Robert Paden",
+  "role": "Vice President, Water Technology",
+  "company": "ACWApower",
+  "location": "Dubai",
+  "dept": "M.Tech",
+  "batch": 2000,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_19d908d33dd4f99512640bfec9a9d6a6.png",
+  "bio": "Dr. Justin Robert Paden is Vice President, Water Technology at ACWApower, Dubai. A proud Karunya alumnus (M.Tech, 2000) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Selvinson SJS",
+  "role": "Senior Vice President & Head of Network Performance",
+  "company": "Reliance Jio",
+  "location": "Mumbai",
+  "dept": "ECE",
+  "batch": 1994,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_05295899aee911a21c0bab1d3328581b.png",
+  "bio": "Selvinson SJS is Senior Vice President & Head of Network Performance at Reliance Jio, Mumbai. A proud Karunya alumnus (ECE, 1994) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "John Anand Kumar",
+  "role": "Senior Vice President",
+  "company": "Bank of America",
+  "location": "USA",
+  "dept": "CSE",
+  "batch": 1998,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_3e8deabcbf1b8e2ad22dc33f0ecb6fde.jpeg",
+  "bio": "John Anand Kumar is Senior Vice President at Bank of America, USA. A proud Karunya alumnus (CSE, 1998) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Dr. Daniel Jacob",
+  "role": "Executive Vice President – HR",
+  "company": "EC Group",
+  "location": "Chennai",
+  "dept": "MBA",
+  "batch": 2005,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_8b51c5fe96305452692af3c47f8238a4.png",
+  "bio": "Dr. Daniel Jacob is Executive Vice President – HR at EC Group, Chennai. A proud Karunya alumnus (MBA, 2005) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Esther Malini Victor",
+  "role": "Senior Vice President",
+  "company": "Sekura Roads Group",
+  "location": "Chennai",
+  "dept": "Civil",
+  "batch": 1990,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_ff25f31544d49281160d23544595786e.png",
+  "bio": "Esther Malini Victor is Senior Vice President at Sekura Roads Group, Chennai. A proud Karunya alumnus (Civil, 1990) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Abinsam Kottikal",
+  "role": "Country Head, COO & EVP",
+  "company": "Hitachi Solutions India Pvt. Ltd",
+  "location": "",
+  "dept": "EIE",
+  "batch": 1999,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_2a9dc91b6024319969c2bbff48d312b5.png",
+  "bio": "Abinsam Kottikal is Country Head, COO & EVP at Hitachi Solutions India Pvt. Ltd. A proud Karunya alumnus (EIE, 1999) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Shibu Davis",
+  "role": "Regional Head – Inspection, Certification, Auditing & Training",
+  "company": "FAHSS WLL",
+  "location": "Dubai, UAE",
+  "dept": "ECE",
+  "batch": 1993,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_675fb90385e78155608a090f7bf480ff.png",
+  "bio": "Shibu Davis is Regional Head – Inspection, Certification, Auditing & Training at FAHSS WLL, Dubai, UAE. A proud Karunya alumnus (ECE, 1993) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Paul Jeyasingh",
+  "role": "Associate Vice President (AVP)",
+  "company": "AI & Analytics",
+  "location": "",
+  "dept": "Mechanical",
+  "batch": 1993,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_ff500e94e16547638868bd63ebe777ff.png",
+  "bio": "Paul Jeyasingh is Associate Vice President (AVP) at AI & Analytics. A proud Karunya alumnus (Mechanical, 1993) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Joshua Madan",
+  "role": "Chief Executive Officer",
+  "company": "Covenant Consultants",
+  "location": "Chennai",
+  "dept": "ECE",
+  "batch": 1998,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_545ea2d31bdf669ae0a550bb909a0c06.png",
+  "bio": "Joshua Madan is Chief Executive Officer at Covenant Consultants, Chennai. A proud Karunya alumnus (ECE, 1998) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Newin Durai",
+  "role": "Executive Vice President & Global Head",
+  "company": "LTIMindtree",
+  "location": "",
+  "dept": "Mechanical",
+  "batch": 1993,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_3d2f5cecb33789b708e4ab55d844a9f3.png",
+  "bio": "Newin Durai is Executive Vice President & Global Head at LTIMindtree. A proud Karunya alumnus (Mechanical, 1993) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Dr. Pratap Arni Mallisetty",
+  "role": "Senior Vice President – Sales",
+  "company": "NuSummit",
+  "location": "Bengaluru",
+  "dept": "ECE",
+  "batch": 1995,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_869e0b2e4ea8d0bcddcde9a08f676d53.png",
+  "bio": "Dr. Pratap Arni Mallisetty is Senior Vice President – Sales at NuSummit, Bengaluru. A proud Karunya alumnus (ECE, 1995) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "John William",
+  "role": "Founder & CEO",
+  "company": "AWEV Solutions Pvt. Ltd",
+  "location": "",
+  "dept": "Mechanical",
+  "batch": 1990,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_8c16b892c5fd213d58d4e6b4e0cd32de.jpeg",
+  "bio": "John William is Founder & CEO at AWEV Solutions Pvt. Ltd. A proud Karunya alumnus (Mechanical, 1990) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Vijin Jenius",
+  "role": "Group Director",
+  "company": "ISRO",
+  "location": "Trivandrum",
+  "dept": "ECE",
+  "batch": 1995,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_d200c0da0f277236f0d5f91ac187d4cd.jpeg",
+  "bio": "Vijin Jenius is Group Director at ISRO, Trivandrum. A proud Karunya alumnus (ECE, 1995) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Ben H. Berson",
+  "role": "Command Education Officer",
+  "company": "Southern Naval Command",
+  "location": "Kochi",
+  "dept": "Mechanical",
+  "batch": 1990,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_a1b2da24ded429295ae74bc57d46180c.jpeg",
+  "bio": "Ben H. Berson is Command Education Officer at Southern Naval Command, Kochi. A proud Karunya alumnus (Mechanical, 1990) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Jeyasingh Pathrose",
+  "role": "Chief Operating Officer",
+  "company": "Jelan Tech",
+  "location": "Chennai",
+  "dept": "ECE",
+  "batch": 1990,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_639851fb480dd5284ee280adcb365e25.png",
+  "bio": "Jeyasingh Pathrose is Chief Operating Officer at Jelan Tech, Chennai. A proud Karunya alumnus (ECE, 1990) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Santosh Varghese",
+  "role": "Managing Director",
+  "company": "TOSH NXT TECH VENTURES FZCO",
+  "location": "Dubai, UAE",
+  "dept": "ECE",
+  "batch": 1990,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_8d9718fa50afcda2eebf3ae4cecf2bd2.png",
+  "bio": "Santosh Varghese is Managing Director at TOSH NXT TECH VENTURES FZCO, Dubai, UAE. A proud Karunya alumnus (ECE, 1990) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Praveen Cherian",
+  "role": "Business Advisor",
+  "company": "Freelance",
+  "location": "",
+  "dept": "ECE",
+  "batch": 1991,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_7fb898f944371e1f0daf6bd7de3dfa1f.png",
+  "bio": "Praveen Cherian is Business Advisor at Freelance. A proud Karunya alumnus (ECE, 1991) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Jonathan Samuel",
+  "role": "President & CEO",
+  "company": "KSB GIW, Inc.",
+  "location": "",
+  "dept": "Mechanical",
+  "batch": 1990,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_0d8dcdd2bcec517424b58afb50c0aafa.jpeg",
+  "bio": "Jonathan Samuel is President & CEO at KSB GIW, Inc.. A proud Karunya alumnus (Mechanical, 1990) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Rajiv R G",
+  "role": "Chief Information Officer",
+  "company": "Bahwan CyberTek",
+  "location": "",
+  "dept": "Mechanical",
+  "batch": 1992,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_660fca7b216e08d75ca67327fcff5996.png",
+  "bio": "Rajiv R G is Chief Information Officer at Bahwan CyberTek. A proud Karunya alumnus (Mechanical, 1992) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Gerard Dhanraj",
+  "role": "Senior Project Manager",
+  "company": "Hitachi Energy",
+  "location": "Raleigh, USA",
+  "dept": "Civil",
+  "batch": 1990,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_8a4b9cf8b346bf99976e8fb7d9a1b1f0.jpeg",
+  "bio": "Gerard Dhanraj is Senior Project Manager at Hitachi Energy, Raleigh, USA. A proud Karunya alumnus (Civil, 1990) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Jen Dawson",
+  "role": "Founder & Chief Executive Officer",
+  "company": "SaaSNova",
+  "location": "USA",
+  "dept": "ECE",
+  "batch": 1992,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_f8d3371d8fff7a889bddf6b0294e279e.png",
+  "bio": "Jen Dawson is Founder & Chief Executive Officer at SaaSNova, USA. A proud Karunya alumnus (ECE, 1992) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Paul Nirmal Raj",
+  "role": "People & Talent Project Director",
+  "company": "Vantiva",
+  "location": "",
+  "dept": "MBA",
+  "batch": 2005,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_c0569a7b96bb55e6a737e4836b26d1f3.jpeg",
+  "bio": "Paul Nirmal Raj is People & Talent Project Director at Vantiva. A proud Karunya alumnus (MBA, 2005) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Sai Babu",
+  "role": "Managing Director",
+  "company": "Pollucare Engineers India Pvt. Ltd",
+  "location": "",
+  "dept": "Mechanical",
+  "batch": 1991,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_a910741b64d43ef1eb1ebe13743ebe7f.jpeg",
+  "bio": "Sai Babu is Managing Director at Pollucare Engineers India Pvt. Ltd. A proud Karunya alumnus (Mechanical, 1991) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Aghi George",
+  "role": "Director – Business Risk Assessment & Advisory, CFCR",
+  "company": "Standard Chartered",
+  "location": "",
+  "dept": "Civil",
+  "batch": 2002,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_4f6bc0e6d9974c807638b611069be4eb.png",
+  "bio": "Aghi George is Director – Business Risk Assessment & Advisory, CFCR at Standard Chartered. A proud Karunya alumnus (Civil, 2002) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Alvin Zechariah",
+  "role": "Managing Director",
+  "company": "Kayro Properties LLC",
+  "location": "",
+  "dept": "Mechanical",
+  "batch": 1993,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_9cd43709329143814ac2b95220acdb7c.jpeg",
+  "bio": "Alvin Zechariah is Managing Director at Kayro Properties LLC. A proud Karunya alumnus (Mechanical, 1993) and a member of the university's Distinguished Alumni."
+ },
+ {
+  "name": "Swaminathan Angannan",
+  "role": "Business Head – Europe",
+  "company": "APA Engineering Pvt Ltd",
+  "location": "",
+  "dept": "Mechanical",
+  "batch": 1995,
+  "photo": "https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_d18ec8193701bc8609bf40ffac38ef12.jpeg",
+  "bio": "Swaminathan Angannan is Business Head – Europe at APA Engineering Pvt Ltd. A proud Karunya alumnus (Mechanical, 1995) and a member of the university's Distinguished Alumni."
+ }
+]
