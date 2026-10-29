@@ -6,8 +6,10 @@ const KU = 'https://karunya.edu/img/homepage/';
 const LOGO = 'https://www.karunya.edu/themes/porto/img/KU_logo_web.png';
 const photo = n => `${KU}Slides/slide${n}.jpg`;
 const DEPTS = ['ECE', 'Mechanical', 'Civil', 'CSE', 'EIE', 'MBA', 'M.Tech', 'Ph.D'];
-const ROW1 = [1, 2, 4, 6, 8, 10, 11], ROW2 = [12, 13, 14, 15, 16, 18, 5];
-const GALLERY = [1, 2, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15, 16, 18];
+const HACK = 'img/hackathon.webp'; // Smart India Hackathon 2026 team photo
+const slides = ns => ns.map(n => (n === 'hack' ? HACK : photo(n)));
+const ROW1 = slides([1, 2, 'hack', 4, 6, 8, 10, 11]), ROW2 = slides([12, 13, 14, 15, 'hack', 16, 18, 5]);
+const GALLERY = slides(['hack', 1, 2, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15, 16, 18]);
 
 const Connected = createContext(); // Context: ids of alumni I have connected with
 
@@ -144,7 +146,7 @@ function Home() {
   return (
     <>
       <section className="hero">
-        <Marquee speed={70}>{ROW1.map(n => <img key={n} src={photo(n)} alt="Karunya campus life" />)}</Marquee>
+        <Marquee speed={70}>{ROW1.map(u => <img key={u} src={u} alt="Karunya campus life" />)}</Marquee>
         <div className="container text-center py-5 fade-up">
           <span className="eyebrow">KARUNYA ALUMNI NETWORK</span>
           <h1 className="my-3">Where Karunyans Grow to <span>Change the World</span></h1>
@@ -154,7 +156,7 @@ function Home() {
             <button className="btn btn-blue px-4">Search</button>
           </form>
         </div>
-        <Marquee rev speed={80}>{ROW2.map(n => <img key={n} src={photo(n)} alt="Karunya campus life" />)}</Marquee>
+        <Marquee rev speed={80}>{ROW2.map(u => <img key={u} src={u} alt="Karunya campus life" />)}</Marquee>
       </section>
 
       <section className="stats"><div className="container"><div className="row g-4 justify-content-center">
@@ -321,29 +323,30 @@ function Join() {
   );
 }
 
-const events = [['19 Sep 2026', 'Karunya Bangalore Alumni Chapter Meet'], ['05 Sep 2026', 'Silver Jubilee Reunion – Civil 2001 Batch'], ['01 Jun 2026', 'Silver Jubilee Reunion – 2001 EIE Batch'], ['28 Dec 2025', 'Silver Jubilee Reunion – 2000 Batch'], ['06 Oct 2025', 'The Karunya University Alumni Meet 2025'], ['Jul 2025', 'Reunion of the 1988 Batch, Chennai']];
+const events = [['2026', 'Smart India Hackathon 2026'], ['19 Sep 2026', 'Karunya Bangalore Alumni Chapter Meet'], ['05 Sep 2026', 'Silver Jubilee Reunion – Civil 2001 Batch'], ['01 Jun 2026', 'Silver Jubilee Reunion – 2001 EIE Batch'], ['28 Dec 2025', 'Silver Jubilee Reunion – 2000 Batch'], ['06 Oct 2025', 'The Karunya University Alumni Meet 2025'], ['Jul 2025', 'Reunion of the 1988 Batch, Chennai']];
 
 function Campus() {
   const [open, setOpen] = useState(null);
   return (
     <Page title="Campus & Events" sub="720+ acres of serene, nature-rich campus in the foothills of the Western Ghats">
       <div className="row g-3 gallery mb-5">
-        {GALLERY.map(n => <div className="col-6 col-md-4 col-lg-3" key={n}><div onClick={() => setOpen(n)}><img src={photo(n)} alt="Karunya campus" /></div></div>)}
+        {GALLERY.map(u => <div className="col-6 col-md-4 col-lg-3" key={u}><div onClick={() => setOpen(u)}><img src={u} alt="Karunya campus" /></div></div>)}
       </div>
       <div className="row g-4">
         <div className="col-lg-6">
-          <h5>Reunions & alumni meets</h5>
+          <h5>Events, reunions & alumni meets</h5>
           <table className="table align-middle">
             <thead><tr><th>Date</th><th>Event</th></tr></thead>
             <tbody>{events.map(([d, e]) => <tr key={e}><td className="text-nowrap">{d}</td><td>{e}</td></tr>)}</tbody>
           </table>
+          <figure className="mt-4"><img className="rounded-img" src={HACK} alt="Smart India Hackathon 2026 team" /><figcaption className="muted small mt-2">Smart India Hackathon 2026: our team after the hackathon</figcaption></figure>
           <h5 className="mt-4">Visit the campus</h5>
           <p className="muted mb-1">Alumni Affairs Office, Karunya Nagar, Coimbatore – 641 114</p>
           <ol className="muted"><li>Email <a href="mailto:alumni@karunya.edu">alumni@karunya.edu</a></li><li>Call 0422-2614315</li><li>Plan your visit via the <a href="https://kitsaa.org/" target="_blank" rel="noreferrer">alumni association</a></li></ol>
         </div>
         <div className="col-lg-6"><iframe title="Karunya campus map" height="360" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=76.72%2C10.92%2C76.76%2C10.95&layer=mapnik" /></div>
       </div>
-      {open && <div className="lightbox" onClick={() => setOpen(null)}><img src={photo(open)} alt="Karunya campus" /></div>}
+      {open && <div className="lightbox" onClick={() => setOpen(null)}><img src={open} alt="Karunya campus" /></div>}
     </Page>
   );
 }
